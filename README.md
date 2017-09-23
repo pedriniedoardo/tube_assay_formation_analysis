@@ -7,4 +7,4 @@ Upon plating, endothelial cells attach and generate mechanical forces on the sur
 
 
 # Assay Description
-Ongoing research is focused on how specific molecules in the “matrix-integrin-cytoskeletal signaling axis” are involved in the eventual assembly into three-dimensional vascular networks.¹  Once formed, these interconnected networks are usually maintained for approximately 24 hours. Tube formation is typically quantified by measuring the number, length, or area of these capillary-like structures in two-dimensional microscope images of the culture dish.   
+Ongoing research is focused on how specific molecules in the “matrix-integrin-cytoskeletal signaling axis” are involved in the eventual assembly into three-dimensional vascular networks. Once formed, these interconnected networks are usually maintained for approximately 24 hours. Tube formation is typically quantified by measuring the number, length, or area of these capillary-like structures in two-dimensional microscope images of the culture dish.   
