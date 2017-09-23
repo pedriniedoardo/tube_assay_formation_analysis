@@ -1,5 +1,5 @@
-# tube-formation-analysis
-extract and analyze relevant information from tube formation assay images (fluorescent microscopy)
+# Tube Formation Analysis
+The aim of the pipeline is to extract and analyze relevant information from tube formation assay images (obtained from fluorescent microscopy).
 
 # Introduction
 One of the most widely used in vitro assays to model the reorganization stage of angiogenesis is the tube formation assay. The assay measures the ability of endothelial cells, plated at subconfluent densities with the appropriate extracellular matrix support, to form capillary-like structures (a.k.a tubes). Scientists typically employ this assay to determine the ability of various compounds to promote or inhibit tube formation. Compounds that are able to inhibit tube formation could be useful in various diseases, such as cancer, where tumors stimulate new blood vessel formation to receive oxygen and nutrients in order to grow beyond a relatively small size. 
