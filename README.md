@@ -1,4 +1,4 @@
-# Tube Formation Analysis
+# Tube Formation Analysis Pipeline
 The aim of the pipeline is to extract and analyze relevant information from tube formation assay images (obtained from fluorescent microscopy).
 
 # Introduction
