@@ -1,3 +1,5 @@
 example of same images used to develop the pipeline.
 The original data are .ics files (stack).
 I have also added some .tif file version.
+
+the single channel image (.tif) are derived from the .ics file in batch by running the "macro save channel.ijm"
