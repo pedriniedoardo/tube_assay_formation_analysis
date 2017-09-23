@@ -1,0 +1,1 @@
+before the analysis is necessary to clean the non tube signal. This is done running "macro filter mask.ijm" (batch process).
