@@ -1,2 +1,7 @@
-the macro will process all the images (in the prompted folder) and save the results in another folder (all as a batch process).
-the macro have been developed using Fiji/imageJ.
+
+* macro save channel.ijm: will open and select the channel of interest from the .ics file (the macro process all the image in the folder).
+* macro save mask.ijm: from the single channel image save a 2 bit image (the macro process all the image in the folder).
+* macro filter mask.ijm: from the 2 bit images clean the non tube feature (the macro process all the image in the folder). From this tipe of images is possible to run a batch measure to save the value of the area in each image.
+* macro skeleton filter mask.ijm: from the 2 bit filtered image this macro produce and save the skeletonize images (the macro process all the image in the folder).
+* macro total length skeleton.ijm: from the skeletonized images save the overall langth of the network (the macro process all the image in the folder).
+* macro skeleton analysis.ijm: from the skeletonized images produce and save the analysis of different feature of the network.
