@@ -18,9 +18,14 @@ for(i=0; i<list.length;i++){
 	print(name2);
 	run("8-bit");
 	//run("Subtract...", "value=8");
+	//run("Median...", "radius=2");
+	//run("Multiply...", "value=10.000");
+	//setAutoThreshold("Default dark");
+	//run("Convert to Mask");
+	run("Subtract Background...", "rolling=50");
 	run("Median...", "radius=2");
-	run("Multiply...", "value=10.000");
-	setAutoThreshold("Default dark");
+	setAutoThreshold("Huang dark no-reset");
+	setOption("BlackBackground", false);
 	run("Convert to Mask");
 	out_path = dir1 + name2 +"_mask" +".tif";
 	saveAs("tiff", out_path);
